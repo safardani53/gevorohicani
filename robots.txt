@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gevorohicani.pages.dev/sitemap.xml
